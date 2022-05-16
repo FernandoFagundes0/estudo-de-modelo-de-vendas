@@ -1,0 +1,7 @@
+{
+  "name": "modeloVendasApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
